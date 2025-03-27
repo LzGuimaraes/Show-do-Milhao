@@ -12,6 +12,7 @@
   "dependencies": {
     "openai": "^4.90.0",
     "react": "^19.0.0",
+    "react-confetti": "^6.4.0",
     "react-dom": "^19.0.0",
     "styled-components": "^6.1.16"
   },

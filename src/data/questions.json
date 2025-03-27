@@ -84,18 +84,6 @@
     "difficulty": 3
   },
   {
-    "question": "Qual é a capital da Austrália?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-    "correctAnswer": "Canberra",
-    "difficulty": 2
-  },
-  {
-    "question": "Qual é o oceano mais profundo da Terra?",
-    "options": ["Atlântico", "Pacífico", "Índico", "Ártico"],
-    "correctAnswer": "Pacífico",
-    "difficulty": 1
-  },
-  {
     "question": "Quantos lados tem um hexágono?",
     "options": ["4", "5", "6", "8"],
     "correctAnswer": "6",
@@ -111,12 +99,6 @@
     "question": "Qual é o elemento químico mais abundante no universo?",
     "options": ["Oxigênio", "Hidrogênio", "Carbono", "Hélio"],
     "correctAnswer": "Hidrogênio",
-    "difficulty": 1
-  },
-  {
-    "question": "Quem pintou a Mona Lisa?",
-    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
-    "correctAnswer": "Leonardo da Vinci",
     "difficulty": 1
   },
   {
@@ -174,12 +156,6 @@
     "difficulty": 2
   },
   {
-    "question": "Qual é a montanha mais alta do mundo?",
-    "options": ["Monte Everest", "Monte Kilimanjaro", "Mont Blanc", "Monte McKinley"],
-    "correctAnswer": "Monte Everest",
-    "difficulty": 1
-  },
-  {
     "question": "Quem foi o primeiro homem a pisar na Lua?",
     "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
     "correctAnswer": "Neil Armstrong",
@@ -228,12 +204,6 @@
     "difficulty": 1
   },
   {
-    "question": "Quem foi o primeiro presidente do Brasil?",
-    "options": ["Juscelino Kubitschek", "Getúlio Vargas", "Deodoro da Fonseca", "Dom Pedro II"],
-    "correctAnswer": "Deodoro da Fonseca",
-    "difficulty": 2
-  },
-  {
     "question": "Qual é a raiz quadrada de 144?",
     "options": ["10", "11", "12", "14"],
     "correctAnswer": "12",
@@ -264,7 +234,7 @@
     "difficulty": 2
   },
   {
-    "question": "Quantos continentes existem no mundo?",
+    "question": "Quantos continentes existem no mundo? (considerando o modelo tradicional de 7 continentes)",
     "options": ["5", "6", "7", "8"],
     "correctAnswer": "7",
     "difficulty": 1
@@ -282,16 +252,10 @@
     "difficulty": 1
   },
   {
-    "question": "Qual é o nome do rio mais longo do mundo?",
-    "options": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Mississipi"],
-    "correctAnswer": "Rio Nilo",
-    "difficulty": 2
-  },
-  {
     "question": "Quem é considerado o pai da computação?",
     "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
-    "correctAnswer": "Charles Babbage",
-    "difficulty": 3
+    "correctAnswer": "Alan Turing",
+    "difficulty": 2
   },
   {
     "question": "Qual desses metais é líquido à temperatura ambiente?",

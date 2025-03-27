@@ -34,6 +34,33 @@ class QuizService {
     return [...this.questions].sort(() => Math.random() - 0.5);
   }
 
+  // Obter perguntas organizadas por nível de dificuldade
+  getQuestionsOrganizedByDifficulty(count = 10) {
+    // Agrupar perguntas por nível de dificuldade
+    const easyQuestions = this.getQuestionsByDifficulty(1);
+    const mediumQuestions = this.getQuestionsByDifficulty(2);
+    const hardQuestions = this.getQuestionsByDifficulty(3);
+    
+    // Embaralhar cada grupo de perguntas
+    const shuffledEasy = [...easyQuestions].sort(() => Math.random() - 0.5);
+    const shuffledMedium = [...mediumQuestions].sort(() => Math.random() - 0.5);
+    const shuffledHard = [...hardQuestions].sort(() => Math.random() - 0.5);
+    
+    // Calcular quantas perguntas de cada nível serão selecionadas
+    // Distribuição: 40% fáceis, 40% médias, 20% difíceis
+    const easyCount = Math.floor(count * 0.4);
+    const mediumCount = Math.floor(count * 0.4);
+    const hardCount = count - easyCount - mediumCount;
+    
+    // Selecionar perguntas de cada nível
+    const selectedEasy = shuffledEasy.slice(0, easyCount);
+    const selectedMedium = shuffledMedium.slice(0, mediumCount);
+    const selectedHard = shuffledHard.slice(0, hardCount);
+    
+    // Combinar as perguntas na ordem de dificuldade crescente
+    return [...selectedEasy, ...selectedMedium, ...selectedHard];
+  }
+
   // Gerar uma nova pergunta usando a API da OpenAI
   async generateQuestion(topic, difficulty) {
     if (!this.openai) {
