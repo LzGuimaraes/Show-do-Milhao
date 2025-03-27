@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Qual é a capital do Brasil?",
+    "options": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+    "correctAnswer": "Brasília",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem escreveu 'Dom Casmurro'?",
+    "options": ["José de Alencar", "Machado de Assis", "Carlos Drummond de Andrade", "Clarice Lispector"],
+    "correctAnswer": "Machado de Assis",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o maior planeta do Sistema Solar?",
+    "options": ["Terra", "Júpiter", "Saturno", "Marte"],
+    "correctAnswer": "Júpiter",
+    "difficulty": 1
+  },
+  {
+    "question": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "options": ["1969", "1971", "1965", "1973"],
+    "correctAnswer": "1969",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
+    "options": ["Ferro", "Oxigênio", "Silício", "Alumínio"],
+    "correctAnswer": "Oxigênio",
+    "difficulty": 3
+  },
+  {
+    "question": "Qual é o nome do processo de conversão de luz em energia química pelas plantas?",
+    "options": ["Fotossíntese", "Quimiossíntese", "Respiração celular", "Fermentação"],
+    "correctAnswer": "Fotossíntese",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o menor país do mundo em área territorial?",
+    "options": ["Mônaco", "Vaticano", "Nauru", "San Marino"],
+    "correctAnswer": "Vaticano",
+    "difficulty": 3
+  },
+  {
+    "question": "Quem pintou a obra 'Mona Lisa'?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswer": "Leonardo da Vinci",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é o maior oceano do mundo?",
+    "options": ["Atlântico", "Índico", "Pacífico", "Ártico"],
+    "correctAnswer": "Pacífico",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é o metal mais abundante na crosta terrestre?",
+    "options": ["Ferro", "Alumínio", "Cobre", "Zinco"],
+    "correctAnswer": "Alumínio",
+    "difficulty": 3
+  },
+  {
+    "question": "Qual é a montanha mais alta do mundo?",
+    "options": ["Monte Everest", "K2", "Monte Kilimanjaro", "Monte Aconcágua"],
+    "correctAnswer": "Monte Everest",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é o rio mais longo do mundo?",
+    "options": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Mississipi"],
+    "correctAnswer": "Rio Nilo",
+    "difficulty": 2
+  },
+  {
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "options": ["Getúlio Vargas", "Deodoro da Fonseca", "Dom Pedro I", "Juscelino Kubitschek"],
+    "correctAnswer": "Deodoro da Fonseca",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o menor osso do corpo humano?",
+    "options": ["Estribo", "Martelo", "Fêmur", "Falange"],
+    "correctAnswer": "Estribo",
+    "difficulty": 3
+  },
+  {
+    "question": "Qual é a capital da Austrália?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctAnswer": "Canberra",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o oceano mais profundo da Terra?",
+    "options": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "correctAnswer": "Pacífico",
+    "difficulty": 1
+  },
+  {
+    "question": "Quantos lados tem um hexágono?",
+    "options": ["4", "5", "6", "8"],
+    "correctAnswer": "6",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem escreveu 'Dom Quixote'?",
+    "options": ["Machado de Assis", "Miguel de Cervantes", "William Shakespeare", "José Saramago"],
+    "correctAnswer": "Miguel de Cervantes",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o elemento químico mais abundante no universo?",
+    "options": ["Oxigênio", "Hidrogênio", "Carbono", "Hélio"],
+    "correctAnswer": "Hidrogênio",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem pintou a Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+    "correctAnswer": "Leonardo da Vinci",
+    "difficulty": 1
+  },
+  {
+    "question": "Em que ano ocorreu a Revolução Francesa?",
+    "options": ["1492", "1776", "1789", "1812"],
+    "correctAnswer": "1789",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual desses planetas não possui luas?",
+    "options": ["Marte", "Vênus", "Saturno", "Urano"],
+    "correctAnswer": "Vênus",
+    "difficulty": 2
+  },
+  {
+    "question": "Quem formulou a teoria da relatividade?",
+    "options": ["Isaac Newton", "Galileu Galilei", "Albert Einstein", "Nikola Tesla"],
+    "correctAnswer": "Albert Einstein",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é a capital do Canadá?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "correctAnswer": "Ottawa",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o maior deserto do mundo?",
+    "options": ["Saara", "Gobi", "Antártico", "Kalahari"],
+    "correctAnswer": "Antártico",
+    "difficulty": 3
+  },
+  {
+    "question": "Qual é o valor de π (pi) aproximadamente?",
+    "options": ["2.14", "3.14", "4.14", "5.14"],
+    "correctAnswer": "3.14",
+    "difficulty": 1
+  },
+  {
+    "question": "Que país tem o formato de uma bota?",
+    "options": ["Brasil", "Itália", "Espanha", "França"],
+    "correctAnswer": "Itália",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é o maior órgão do corpo humano?",
+    "options": ["Coração", "Pulmão", "Fígado", "Pele"],
+    "correctAnswer": "Pele",
+    "difficulty": 2
+  },
+  {
+    "question": "Quantos cromossomos tem um ser humano?",
+    "options": ["23", "32", "42", "46"],
+    "correctAnswer": "46",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é a montanha mais alta do mundo?",
+    "options": ["Monte Everest", "Monte Kilimanjaro", "Mont Blanc", "Monte McKinley"],
+    "correctAnswer": "Monte Everest",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem foi o primeiro homem a pisar na Lua?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+    "correctAnswer": "Neil Armstrong",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual dessas invenções foi criada por Thomas Edison?",
+    "options": ["Telefone", "Avião", "Lâmpada elétrica", "Rádio"],
+    "correctAnswer": "Lâmpada elétrica",
+    "difficulty": 2
+  },
+  {
+    "question": "Em qual continente fica o Egito?",
+    "options": ["Ásia", "Europa", "África", "América"],
+    "correctAnswer": "África",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual gás é essencial para a respiração humana?",
+    "options": ["Dióxido de carbono", "Nitrogênio", "Hidrogênio", "Oxigênio"],
+    "correctAnswer": "Oxigênio",
+    "difficulty": 1
+  },
+  {
+    "question": "O que mede a escala Richter?",
+    "options": ["Força dos ventos", "Temperatura", "Intensidade de terremotos", "Pressão atmosférica"],
+    "correctAnswer": "Intensidade de terremotos",
+    "difficulty": 2
+  },
+  {
+    "question": "Quantos segundos há em um minuto?",
+    "options": ["30", "45", "60", "90"],
+    "correctAnswer": "60",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é o símbolo químico do ouro?",
+    "options": ["Ag", "Au", "O", "Hg"],
+    "correctAnswer": "Au",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual planeta é conhecido como o Planeta Vermelho?",
+    "options": ["Terra", "Vênus", "Marte", "Júpiter"],
+    "correctAnswer": "Marte",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "options": ["Juscelino Kubitschek", "Getúlio Vargas", "Deodoro da Fonseca", "Dom Pedro II"],
+    "correctAnswer": "Deodoro da Fonseca",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é a raiz quadrada de 144?",
+    "options": ["10", "11", "12", "14"],
+    "correctAnswer": "12",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é a capital da Austrália?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctAnswer": "Canberra",
+    "difficulty": 2
+  },
+  {
+    "question": "Quem foi o autor de 'A Origem das Espécies'?",
+    "options": ["Isaac Newton", "Charles Darwin", "Albert Einstein", "Louis Pasteur"],
+    "correctAnswer": "Charles Darwin",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual foi a civilização que construiu Machu Picchu?",
+    "options": ["Maias", "Astecas", "Incas", "Egípcios"],
+    "correctAnswer": "Incas",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é o maior osso do corpo humano?",
+    "options": ["Fêmur", "Tíbia", "Úmero", "Rádio"],
+    "correctAnswer": "Fêmur",
+    "difficulty": 2
+  },
+  {
+    "question": "Quantos continentes existem no mundo?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem foi o primeiro imperador de Roma?",
+    "options": ["César", "Nero", "Augusto", "Constantino"],
+    "correctAnswer": "Augusto",
+    "difficulty": 3
+  },
+  {
+    "question": "Qual é a moeda oficial do Japão?",
+    "options": ["Dólar", "Iene", "Yuan", "Euro"],
+    "correctAnswer": "Iene",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é o nome do rio mais longo do mundo?",
+    "options": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Mississipi"],
+    "correctAnswer": "Rio Nilo",
+    "difficulty": 2
+  },
+  {
+    "question": "Quem é considerado o pai da computação?",
+    "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+    "correctAnswer": "Charles Babbage",
+    "difficulty": 3
+  },
+  {
+    "question": "Qual desses metais é líquido à temperatura ambiente?",
+    "options": ["Ferro", "Mercúrio", "Ouro", "Cobre"],
+    "correctAnswer": "Mercúrio",
+    "difficulty": 2
+  },
+  {
+    "question": "Quem escreveu 'O Pequeno Príncipe'?",
+    "options": ["J.K. Rowling", "Antoine de Saint-Exupéry", "Machado de Assis", "Victor Hugo"],
+    "correctAnswer": "Antoine de Saint-Exupéry",
+    "difficulty": 2
+  },
+  {
+    "question": "Em que país aconteceu a Revolução Industrial?",
+    "options": ["França", "Alemanha", "Inglaterra", "Estados Unidos"],
+    "correctAnswer": "Inglaterra",
+    "difficulty": 2
+  },
+  {
+    "question": "Qual é a fórmula química da água?",
+    "options": ["CO2", "H2O", "O2", "NaCl"],
+    "correctAnswer": "H2O",
+    "difficulty": 1
+  },
+  {
+    "question": "Qual é a cor resultante da mistura de azul e amarelo?",
+    "options": ["Verde", "Laranja", "Roxo", "Cinza"],
+    "correctAnswer": "Verde",
+    "difficulty": 1
+  },
+  {
+    "question": "Quem foi o líder da Revolução Russa de 1917?",
+    "options": ["Josef Stalin", "Karl Marx", "Vladimir Lenin", "Leon Trotsky"],
+    "correctAnswer": "Vladimir Lenin",
+    "difficulty": 3
+  }
+]
