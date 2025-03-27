@@ -241,7 +241,7 @@ const Quiz = () => {
             Você respondeu todas as perguntas corretamente e conquistou o prêmio máximo!
           </p>
         )}
-        <div style={{ textAlign: 'center',display: 'flex', justifyContent: 'center' }}>
+         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <ControlButton onClick={restartGame}>Jogar Novamente</ControlButton>
         </div>
       </QuizContainer>
